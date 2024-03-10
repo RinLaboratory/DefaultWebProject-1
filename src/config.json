@@ -1,0 +1,342 @@
+{
+  "Main": {
+    "PageTitle": "NEACRAFT",
+    "NavBar": [
+      {
+        "title": "Home",
+        "url": "/"
+      },
+      {
+        "title": "Wiki",
+        "url": "https://wiki.neacraft.net"
+      },
+      {
+        "title": "Calabozo",
+        "url": "https://neacraft.net/calabozo/"
+      },
+      {
+        "title": "Votar",
+        "url": "https://www.40servidoresmc.es/neacraft"
+      },
+      {
+        "title": "Tienda",
+        "url": "https://tienda.neaworld.net"
+      },
+      {
+        "title": "Discord",
+        "url": "https://discord.neacraft.net/"
+      }
+    ],
+    "Versions": {
+      "Bedrock": {
+        "min": "1.16.X",
+        "max": "1.20.4"
+      },
+      "Java": {
+        "min": "1.16.X",
+        "max": "1.20.4"
+      }
+    },
+    "ServerIP": "play.neacraft.net",
+    "Footer": {
+      "Email": "neacraft18@gmail.com",
+      "Copyright": "Copyright ® 2016/2024 Neacraft. Todos los derechos reservados.",
+      "Socials": [
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/neaserver",
+          "icon": "/icon_facebook.svg"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.neacraft.net",
+          "icon": "/icon_twitter.svg"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/nealand_club/",
+          "icon": "/icon_instagram.svg"
+        },
+        {
+          "title": "discord",
+          "url": "https://discord.neacraft.net/",
+          "icon": "/icon_discord.svg"
+        },
+        {
+          "title": "twitch",
+          "url": "https://www.twitch.tv/colartee_",
+          "icon": "/icon_twitch.svg"
+        }
+      ],
+      "AboutUS": [
+        {
+          "title": "Minemagic Network",
+          "url": "https://www.40servidoresmc.es/minemagic-network"
+        },
+        {
+          "title": "Wiki",
+          "url": "https://wiki.neacraft.net"
+        },
+        {
+          "title": "Soporte general",
+          "url": "https://discord.com/channels/861430636904054804/861430638552940579"
+        },
+        {
+          "title": "play.neacraft.net",
+          "url": " "
+        },
+        {
+          "title": "play.nealand.club",
+          "url": " "
+        }
+      ],
+      "Legal": [
+        {
+          "title": "Politicas de Privacidad",
+          "url": ""
+        },
+        {
+          "title": "Cookie preferences",
+          "url": ""
+        }
+      ],
+      "TermsAndConditions": []
+    }
+  },
+  "Ranks": [
+    {
+      "name": "Loki",
+      "image": "/rank-loki.png",
+      "nameColored": "/title-loki.svg",
+      "description1": "El rango loki lleno de avaricia, travesuras, Neacraft presenta el Dios de las Mentiras.",
+      "description2": "Este rango es unico en su clase, al ser un dios mentiroso y lleno de multiples habilidades llega para sembrar el caos a Neacraft.",
+      "kitArmor": ["Protección nivel 17", "Irrompibilidad nivel 17", "Caída de pluma nivel 17"],
+      "kitWeapons": [
+        "Filo nivel 17",
+        "Poder nivel 17",
+        "Eficiencia nivel 17",
+        "Irrompibilidad nivel 17"
+      ],
+      "buttonImg": "/aquire-loki.svg",
+      "url": "https://tienda.neaworld.net/category/rangos-permanentes-g"
+    },
+    {
+      "name": "Thor",
+      "image": "/rank-thor.jpg",
+      "nameColored": "/title-thor.svg",
+      "description1": "Neacraft presenta el Rango Thor unico en su totalidad, con grandes habilidades y poderes para las modalidades mas op.",
+      "description2": "Con truenos y su poderoso martillo Mjölnir llegan A Neacraft. Ve si eres digno de su gran poder y poseer el matillo.",
+      "kitArmor": ["Protección nivel 18", "Irrompibilidad nivel 18", "Caída de pluma nivel 18"],
+      "kitWeapons": [
+        "Filo nivel 18",
+        "Poder nivel 18",
+        "Eficiencia nivel 18",
+        "Irrompibilidad nivel 18"
+      ],
+      "buttonImg": "/aquire-thor.svg",
+      "url": "https://tienda.neaworld.net/category/rangos-permanentes-g"
+    },
+    {
+      "name": "Odín",
+      "image": "/rank-odin.png",
+      "nameColored": "/title-odin.svg",
+      "description1": "Este increíble y 3er rango que presenta Neacraft, esta lleno de nuevas sorpresas y nuevas habilidades.",
+      "description2": "Un rango enfrascado en la mitología Nórdica el padre de todo Odin llega para llenar de poder y sabiduría NEACRAFT",
+      "kitArmor": ["Protección nivel 19", "Irrompibilidad nivel 19", "Caída de pluma nivel 19"],
+      "kitWeapons": [
+        "Filo nivel 19",
+        "Poder nivel 19",
+        "Eficiencia nivel 19",
+        "Irrompibilidad nivel 19"
+      ],
+      "buttonImg": "/aquire-odin.svg",
+      "url": "https://tienda.neaworld.net/category/rangos-permanentes-g"
+    },
+    {
+      "name": "...",
+      "image": "",
+      "nameColored": "",
+      "description1": "Un nuevo y desonocido rango que todavía no se revela.",
+      "description2": "",
+      "kitArmor": ["Protección nivel **", "Irrompibilidad nivel **", "Caída de pluma nivel **"],
+      "kitWeapons": [
+        "Filo nivel **",
+        "Poder nivel **",
+        "Eficiencia nivel **",
+        "Irrompibilidad nivel **"
+      ],
+      "buttonImg": "/aquire-odin.svg",
+      "url": "https://tienda.neaworld.net/category/rangos-permanentes-g"
+    }
+  ],
+  "Servers": [
+    {
+      "name": "Survival OP 1",
+      "image": "/rank-thor.jpg",
+      "nameColored": "/server-op.svg",
+      "description": "Esta increible modalidad Survival con las cosas mas OP del Servidor",
+      "features": [
+        "Clanes",
+        "Ítems OP",
+        "Mobs OP y BOSS",
+        "Mochilas y Heads",
+        "Zonas PvP",
+        "RankUp",
+        "Rango GRATIS VOTE",
+        "Recompensas Diarias",
+        "Sistema de votaciones VoteParty"
+      ],
+      "versions": {
+        "min": "1.16.X",
+        "max": "1.20.4"
+      },
+      "gallery": [
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg"
+      ]
+    },
+    {
+      "name": "Survival OP 2",
+      "image": "/rank-thor.jpg",
+      "nameColored": "/server-op2.svg",
+      "description": "Esta increible modalidad Survival con las cosas mas OP del Servidor",
+      "features": [
+        "Clanes",
+        "Ítems OP",
+        "Mobs OP y BOSS",
+        "Mochilas y Heads",
+        "Zonas PvP",
+        "RankUp",
+        "Rango GRATIS VOTE",
+        "Recompensas Diarias",
+        "Sistema de votaciones VoteParty"
+      ],
+      "versions": {
+        "min": "1.16.X",
+        "max": "1.20.4"
+      },
+      "gallery": [
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg"
+      ]
+    },
+    {
+      "name": "Survival Legends",
+      "image": "/rank-thor.jpg",
+      "nameColored": "/server-legends.svg",
+      "description": "Esta increible modalidad Survival con las cosas mas OP del Servidor",
+      "features": [
+        "Clanes",
+        "Ítems OP",
+        "Mobs OP y BOSS",
+        "Mochilas y Heads",
+        "Zonas PvP",
+        "RankUp",
+        "Rango GRATIS VOTE",
+        "Recompensas Diarias",
+        "Sistema de votaciones VoteParty"
+      ],
+      "versions": {
+        "min": "1.16.X",
+        "max": "1.20.4"
+      },
+      "gallery": [
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg"
+      ]
+    },
+    {
+      "name": "Survival Semi-Vanilla",
+      "image": "/rank-thor.jpg",
+      "nameColored": "/server-semi.svg",
+      "description": "Esta increible modalidad Survival con las cosas mas OP del Servidor",
+      "features": [
+        "Clanes",
+        "Ítems OP",
+        "Mobs OP y BOSS",
+        "Mochilas y Heads",
+        "Zonas PvP",
+        "RankUp",
+        "Rango GRATIS VOTE",
+        "Recompensas Diarias",
+        "Sistema de votaciones VoteParty"
+      ],
+      "versions": {
+        "min": "1.16.X",
+        "max": "1.20.4"
+      },
+      "gallery": [
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg"
+      ]
+    },
+    {
+      "name": "OneBlock",
+      "image": "/rank-thor.jpg",
+      "nameColored": "/server-oneblock.svg",
+      "description": "Esta increible modalidad Survival con las cosas mas OP del Servidor",
+      "features": [
+        "Clanes",
+        "Ítems OP",
+        "Mobs OP y BOSS",
+        "Mochilas y Heads",
+        "Zonas PvP",
+        "RankUp",
+        "Rango GRATIS VOTE",
+        "Recompensas Diarias",
+        "Sistema de votaciones VoteParty"
+      ],
+      "versions": {
+        "min": "1.16.X",
+        "max": "1.20.4"
+      },
+      "gallery": [
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg"
+      ]
+    },
+    {
+      "name": "SkyPvP",
+      "image": "/rank-thor.jpg",
+      "nameColored": "/server-skypvp.svg",
+      "description": "Esta increible modalidad Survival con las cosas mas OP del Servidor",
+      "features": [
+        "Clanes",
+        "Ítems OP",
+        "Mobs OP y BOSS",
+        "Mochilas y Heads",
+        "Zonas PvP",
+        "RankUp",
+        "Rango GRATIS VOTE",
+        "Recompensas Diarias",
+        "Sistema de votaciones VoteParty"
+      ],
+      "versions": {
+        "min": "1.16.X",
+        "max": "1.20.4"
+      },
+      "gallery": [
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg",
+        "/rank-thor.jpg"
+      ]
+    }
+  ]
+}
