@@ -1,3 +1,5 @@
+'use server'
+
 import { promises as fs } from 'fs'
 
 export type Rank = {
@@ -63,7 +65,7 @@ export type FileContent = {
 }
 
 export default async function importConfig() {
-  const file = await fs.readFile(process.cwd() + '/src/config.json', 'utf8')
+  const file = await fs.readFile(process.cwd() + '/config.json', 'utf8')
   const data = JSON.parse(file)
 
   return data as FileContent
