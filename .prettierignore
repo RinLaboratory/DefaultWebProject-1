@@ -1,0 +1,9 @@
+.next/
+node_modules/
+public/
+.prettierrc.js
+next.config.mjs
+pnpm-lock.yaml
+postcss.config.js
+tailwind.config.ts
+tsconfig.json

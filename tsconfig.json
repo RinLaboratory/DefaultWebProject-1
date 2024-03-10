@@ -1,17 +1,31 @@
 {
+  /*
+    Reference for basic configuration: https://www.totaltypescript.com/tsconfig-cheat-sheet
+  */
   "compilerOptions": {
-    "lib": ["dom", "dom.iterable", "esnext"],
-    "allowJs": true,
-    "skipLibCheck": true,
-    "strict": true,
-    "noEmit": true,
+    /* Base Options: */
     "esModuleInterop": true,
-    "module": "esnext",
-    "moduleResolution": "bundler",
+    "skipLibCheck": true,
+    "allowJs": true,
     "resolveJsonModule": true,
+    "moduleDetection": "force",
     "isolatedModules": true,
+
+    /* Strictness: */
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "forceConsistentCasingInFileNames": true,
+
+    /* If NOT transpiling with TypeScript (Next.js): */
+    "moduleResolution": "bundler",
+    "module": "esnext",
+    "noEmit": true,
     "jsx": "preserve",
     "incremental": true,
+
+    /* If your code runs in the DOM: */
+    "lib": ["dom", "dom.iterable", "esnext"],
+
     "plugins": [
       {
         "name": "next"
