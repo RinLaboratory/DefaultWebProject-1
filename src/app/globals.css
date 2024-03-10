@@ -18,11 +18,7 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
+  background: linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb)))
     rgb(var(--background-start-rgb));
 }
 
@@ -30,4 +26,31 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('./Gilroy-Medium.ttf') format('truetype');
+}
+
+/* ===== Scrollbar CSS ===== */
+/* Firefox */
+.scroll-content {
+  scrollbar-width: thin;
+  scrollbar-color: #00001c #fcf5d8;
+}
+
+/* Chrome, Edge, and Safari */
+.scroll-content::-webkit-scrollbar {
+  width: 16px;
+}
+
+.scroll-content::-webkit-scrollbar-track {
+  background: #2d2d2d;
+}
+
+.scroll-content::-webkit-scrollbar-thumb {
+  background-color: #8f54a0;
+  border-radius: 10px;
+  border: 3px dotted #ffffff;
 }
